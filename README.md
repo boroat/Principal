@@ -1,2 +1,2 @@
-# commandes
+# Commandes
 Parties
