@@ -1,3 +1,4 @@
-# Commandes
-Ce repertoire est destiné à acceuillir la partie commandes du robot
-
+# Structure
+Repertoire principal
+    repertoire pour les commandes
+    repertoire pour le routage
